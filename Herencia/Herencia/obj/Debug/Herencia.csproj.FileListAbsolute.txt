@@ -1,0 +1,5 @@
+C:\Users\emilson.rodriguez\source\repos\Herencia\Herencia\bin\Debug\Herencia.dll
+C:\Users\emilson.rodriguez\source\repos\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\emilson.rodriguez\source\repos\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\emilson.rodriguez\source\repos\Herencia\Herencia\obj\Debug\Herencia.dll
+C:\Users\emilson.rodriguez\source\repos\Herencia\Herencia\obj\Debug\Herencia.pdb

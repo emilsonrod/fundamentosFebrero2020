@@ -1,0 +1,13 @@
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\bin\Debug\FormularioVehiculos.exe.config
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\bin\Debug\FormularioVehiculos.exe
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\bin\Debug\FormularioVehiculos.pdb
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\obj\Debug\FormularioVehiculos.csprojAssemblyReference.cache
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\obj\Debug\FormularioVehiculos.Properties.Resources.resources
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\obj\Debug\FormularioVehiculos.csproj.GenerateResource.cache
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\obj\Debug\FormularioVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\obj\Debug\FormularioVehiculos.exe
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\obj\Debug\FormularioVehiculos.pdb
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\obj\Debug\FormularioVehiculos.Form1.resources
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\bin\Debug\Herencia.dll
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\bin\Debug\Herencia.pdb
+C:\Users\emilson.rodriguez\source\repos\Herencia\FormularioVehiculos\obj\Debug\FormularioVehiculos.csproj.CopyComplete

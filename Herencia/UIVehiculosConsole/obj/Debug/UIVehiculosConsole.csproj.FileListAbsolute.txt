@@ -1,0 +1,10 @@
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\bin\Debug\UIVehiculosConsole.exe.config
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\bin\Debug\UIVehiculosConsole.exe
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\bin\Debug\UIVehiculosConsole.pdb
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\bin\Debug\Herencia.dll
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\bin\Debug\Herencia.pdb
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\obj\Debug\UIVehiculosConsole.csprojAssemblyReference.cache
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\obj\Debug\UIVehiculosConsole.csproj.CoreCompileInputs.cache
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\obj\Debug\UIVehiculosConsole.csproj.CopyComplete
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\obj\Debug\UIVehiculosConsole.exe
+C:\Users\emilson.rodriguez\source\repos\Herencia\UIVehiculosConsole\obj\Debug\UIVehiculosConsole.pdb
